@@ -1,22 +1,22 @@
 @extends('layouts.guest')
 
 @section('content')
-      <!-- start blog-calassic-main-content -->
-      <section class="blog-calassic-main-content section-padding">
-            <div class="container">
-                <div class="row">
+    <!-- start blog-classic-main-content -->
+    <section class="blog-classic-main-content section-padding">
+        <div class="container">
+        <div class="row">
                     <div class="col col-md-8">
 
                     <div class="content">
                         <div class="entry-media">
-                            <img src="assets/images/blog-classic/img-1.jpg" alt>
+                            <img src="/assets/images/jgtm/activities-1.jpg" alt>
                         </div>
                     </div>
 
-                    <div class="entry-body mt-10">
-                        <p>Started in the year 2017, the church has recorded 
-                            tremenduos growth since inception.
-                            The visioner, Barizomdu Job David hearkened to the divine instruction
+                    <div class="entry-body">
+                        <h3>Days of Activities</h3>
+                        <p>Started off as a burning desire to reach out to the lost souls,
+                            the visioner, Barizomdu Job David hearkened to the divine instruction
                             by going out for market evangelism, preaching the message of salvation.
                             It metarmophosed into holding counselling sessions on the 
                             18th of August, 2017.
@@ -64,9 +64,7 @@
                     </div>
                     
                 </div>
-            </div> <!-- end container -->
-        </section>
-        <!-- end blog-main-content -->
-
-
+        </div> <!-- end container -->
+    </section>
+    <!-- end blog-main-content -->
 @endsection

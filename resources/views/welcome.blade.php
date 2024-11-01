@@ -53,7 +53,7 @@
                             <p>Started in the year 2017, the church has recorded tremenduos growth since inception.
                                 
                             </p>
-                            <a href="about-us" class="agency-theme-btn-s2">Read More</a>
+                            <a href="/about" class="agency-theme-btn-s2">Read More</a>
                         </div>
                     </div>
                     <div class="col col-lg-6 col-lg-offset-1 col-md-7">
@@ -393,7 +393,7 @@
                 <div class="row">
                     <div class="col col-md-8 col-sm-10">
                         <div class="newsletter">
-                            <h3>Subscribe your email for our Newsletter</h3>
+                            <h3>Becone a member</h3>
                             <form>
                                 <div>
                                     <input type="email" class="form-control" required placeholder="Your email..">
@@ -409,7 +409,7 @@
 
 
         <!-- start agency-team-section -->
-        <section class="agency-team-section" id="team">
+        <!-- <section class="agency-team-section" id="team">
             <div class="container">
                 <div class="row">
                     <div class="col col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
@@ -506,13 +506,13 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- end start agency-team-section -->
 
 
         <!-- start agency-partners-section -->
-        <section class="agency-partners-section">
-            <h2 class="hidden">Partners</h2>
+        <!-- <section class="agency-partners-section">
+            <h2 class="hidden">Messages</h2>
             <div class="container">
                 <div class="row">
                     <div class="col col-xs-12">
@@ -538,8 +538,8 @@
                         </div>
                     </div>
                 </div>
-            </div> <!-- end container -->
-        </section>
+            </div> end container 
+        </section> -->
         <!-- end agency-partners-section -->
 
 
@@ -549,8 +549,8 @@
                 <div class="row">
                     <div class="col col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                         <div class="agency-section-title-s2">
-                            <span>Our Works Speak For Ourselves </span>
-                            <h2>Recent News</h2>
+                            <span>Listen to Messages Online </span>
+                            <h2>Messages</h2>
                         </div>
                     </div>
                 </div>
@@ -657,3 +657,5 @@
             </div> <!-- end contact-grids -->
         </section>
         <!-- end agency-contact-section -->
+
+        @endsection

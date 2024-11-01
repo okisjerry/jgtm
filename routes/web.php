@@ -17,8 +17,20 @@ use App\Http\Controllers\PhotoController;
 
 Route::get('/', function () {
     return view('welcome');
-    return view('about');
-});
+})->name('welcome');
+
+Route::get('/about', function () {
+    return view('about'); // The view should be in resources/views/about.blade.php
+})->name('about');
+
+Route::get('/activities', function () {
+    return view('activities'); 
+})->name('activities');
+
+Route::get('/live', function () {
+    return view('live'); 
+})->name('live');
+
 
 
 Route::get('/dashboard', [HomeController::class, 'dashboard'])->middleware(['auth'])->name('dashboard');

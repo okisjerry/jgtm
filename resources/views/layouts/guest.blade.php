@@ -10,64 +10,26 @@
     <meta name="author" content="themexriver">
 
     <!-- Page Title -->
-    <title> Just God Triumphant Ministry - City of Liberty</title>
+    <title> Just God Triumphant Ministry- City of Liberty </title>
 
     <!-- Icon fonts -->
-    <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
-    <link href="../assets/css/flaticon.css" rel="stylesheet">
+    <link href="/assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/assets/css/flaticon.css" rel="stylesheet">
 
     <!-- Bootstrap core CSS -->
-    <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Plugins for this template -->
-    <link href="../assets/css/animate.css" rel="stylesheet">
-    <link href="../assets/css/owl.carousel.css" rel="stylesheet">
-    <link href="../assets/css/owl.theme.css" rel="stylesheet">
-    <link href="../assets/css/slick.css" rel="stylesheet">
-    <link href="../assets/css/slick-theme.css" rel="stylesheet">
-    <link href="../assets/css/owl.transitions.css" rel="stylesheet">
-    <link href="../assets/css/jquery.fancybox.css" rel="stylesheet">
-    <link href="../assets/css/bootstrap-datetimepicker.min.css" rel="stylesheet">
-    <link href="../assets/css/magnific-popup.css" rel="stylesheet">
-    <link href="../assets/css/bootstrap-select.css" rel="stylesheet">
-    <link href="../assets/css/bootstrap-datetimepicker.min.css" rel="stylesheet">
+    <link href="/assets/css/animate.css" rel="stylesheet">
+    <link href="/assets/css/owl.carousel.css" rel="stylesheet">
+    <link href="/assets/css/owl.theme.css" rel="stylesheet">
+    <link href="/assets/css/slick.css" rel="stylesheet">
+    <link href="/assets/css/slick-theme.css" rel="stylesheet">
+    <link href="/assets/css/owl.transitions.css" rel="stylesheet">
+    <link href="/assets/css/jquery.fancybox.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="../assets/css/style.css" rel="stylesheet">
-
-
-<head>
-    <!-- Meta Tags -->
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="themexriver">
-
-    <!-- Page Title -->
-    <title> Just God Triumphant Ministry</title>
-
-    <!-- Icon fonts -->
-    <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
-    <link href="../assets/css/flaticon.css" rel="stylesheet">
-
-    <!-- Bootstrap core CSS -->
-    <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Plugins for this template -->
-    <link href="../assets/css/animate.css" rel="stylesheet">
-    <link href="../assets/css/owl.carousel.css" rel="stylesheet">
-    <link href="../assets/css/owl.theme.css" rel="stylesheet">
-    <link href="../assets/css/slick.css" rel="stylesheet">
-    <link href="../assets/css/slick-theme.css" rel="stylesheet">
-    <link href="../assets/css/owl.transitions.css" rel="stylesheet">
-    <link href="../assets/css/jquery.fancybox.css" rel="stylesheet">
-    <link href="../assets/css/bootstrap-datetimepicker.min.css" rel="stylesheet">
-    <link href="../assets/css/magnific-popup.css" rel="stylesheet">
-    <link href="../assets/css/bootstrap-select.css" rel="stylesheet">
-    <link href="../assets/css/bootstrap-datetimepicker.min.css" rel="stylesheet">
-
-    <!-- Custom styles for this template -->
-    <link href="../assets/css/style.css" rel="stylesheet">
+    <link href="/assets/css/style.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -77,18 +39,14 @@
 
 </head>
 
-<body class="agency-home">
+<body class="home-business">
 
- <!-- start preloader -->
- <div class="preloader">
-            <div>
-                <img src="../assets/images/pre-loader.gif" alt>
-            </div>
-        </div>
-        <!-- end preloader -->
+    <!-- start page-wrapper -->
+    <div class="page-wrapper" id="home">
+
 
         <!-- Start header -->
-        <header id="header" class="site-header agency-header">
+        <header id="header" class="site-header business-header">
             <nav class="navigation navbar navbar-default">
                 <div class="container">
                     <div class="navbar-header">
@@ -103,11 +61,9 @@
                         </a>
                     </div>
                     <div id="navbar" class="navbar-collapse collapse navbar-right navigation-holder">
-                        <button class="close-navbar">
-                            <i class="fa fa-close"></i>
-                        </button>
+                        <button class="close-navbar"><i class="fa fa-close"></i></button>
                         <ul class="nav navbar-nav">
-                            <li><a href="/welcome">HOME</a></li>
+                            <li><a href="/">HOME</a></li>
                             <li><a href="/about">ABOUT US</a></li>
                             <li><a href="/live">LIVE</a></li>
                             <li><a href="/activities">ACTIVITIES</a></li>
@@ -117,43 +73,31 @@
                             <li><a href="/faqs">FAQs</a></li>
                             <li><a href="/membership">MEMBERSHIP</a></li>
                         </ul>
-                    </div>
-                    <!-- end of nav-collapse -->
+                    </div><!-- end of nav-collapse -->
 
                     <div class="search-social">
-                        <div class="header-search-area">
-                            <div class="header-search-form">
-                                <form class="form">
-                                    <div>
-                                        <input type="text" class="form-control" placeholder="Search here">
-                                    </div>
-                                    <button type="submit" class="btn"><i class="fa fa-search"></i></button>
-                                </form>
-                            </div>
-                            <div>
-                                <button class="open-btn"><i class="fa fa-search"></i></button>
-                            </div>
-                        </div>
+
                         <div class="social">
                             <ul>
-                                <li><a href="https://www.facebook.com/JustGodtriumphantministry247?mibextid=ZbWKwL"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://www.facebook.com/JustGodtriumphantministry247?mibextid=ZbWKwL"><i
+                                            class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="https://youtube.com/@justgodtriumphantministry.646?si=4oalkbpXmjhU4YnD"><i class="fa fa-youtube"></i></a></li>
+                                <li><a href="https://youtube.com/@justgodtriumphantministry.646?si=4oalkbpXmjhU4YnD"><i
+                                            class="fa fa-youtube"></i></a></li>
                             </ul>
                         </div>
                     </div>
-                </div>
-                <!-- end of container -->
+                </div><!-- end of container -->
             </nav>
         </header>
         <!-- end of header -->
 
 
-    @yield ('slot')
+        @yield ('content')
 
 
-  <!-- start site-footer -->
-  <footer class="site-footer agency-site-footer">
+        <!-- start site-footer -->
+        <footer class="site-footer agency-site-footer">
             <div class="upper-footer">
                 <div class="container">
                     <div class="row">
@@ -225,23 +169,22 @@
                 </div>
             </div>
         </footer>
-          
         <!-- end site-footer -->
 
 
-    <!-- All JavaScript files
+        <!-- All JavaScript files
     ================================================== -->
-    <script src="../assets/js/jquery.min.js"></script>
-    <script src="../assets/js/bootstrap.min.js"></script>
+        <script src="../assets/js/jquery.min.js"></script>
+        <script src="../assets/js/bootstrap.min.js"></script>
 
-    <!-- Plugins for this template -->
-    <script src="../assets/js/moment.js"></script>
-    <script src="../assets/js/jquery-plugin-collection.js"></script>
+        <!-- Plugins for this template -->
+        <script src="../assets/js/moment.js"></script>
+        <script src="../assets/js/jquery-plugin-collection.js"></script>
 
-    <!-- Google map api -->
-    <script src="https://maps.googleapis.com/maps/api/js?key"></script>
+        <!-- Google map api -->
+        <script src="https://maps.googleapis.com/maps/api/js?key"></script>
 
-    <!-- Custom script for this template -->
-    <script src="../assets/js/script.js"></script>
+        <!-- Custom script for this template -->
+        <script src="../assets/js/script.js"></script>
 
-</body> 
+</body>
