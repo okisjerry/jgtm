@@ -121,19 +121,7 @@
                     <!-- end of nav-collapse -->
 
                     <div class="search-social">
-                        <div class="header-search-area">
-                            <div class="header-search-form">
-                                <form class="form">
-                                    <div>
-                                        <input type="text" class="form-control" placeholder="Search here">
-                                    </div>
-                                    <button type="submit" class="btn"><i class="fa fa-search"></i></button>
-                                </form>
-                            </div>
-                            <div>
-                                <button class="open-btn"><i class="fa fa-search"></i></button>
-                            </div>
-                        </div>
+                        
                         <div class="social">
                             <ul>
                                 <li><a href="https://www.facebook.com/JustGodtriumphantministry247?mibextid=ZbWKwL"><i class="fa fa-facebook"></i></a></li>
