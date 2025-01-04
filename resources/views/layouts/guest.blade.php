@@ -70,7 +70,7 @@
                             <li><a href="/give">GIVE</a></li>
                             <li><a href="/testimonies">TESTIMONIES</a></li>
                             <li><a href="/contact">CONTACT</a></li>
-                            <li><a href="/faqs">FAQs</a></li>
+                            <li><a href="/faq">FAQs</a></li>
                             <li><a href="/membership">MEMBERSHIP</a></li>
                         </ul>
                     </div><!-- end of nav-collapse -->
@@ -106,9 +106,8 @@
                                 <div class="footer-logo">
                                     <img src="../assets/images/jgtm/logo.png" height="120" width="120" alt>
                                 </div>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididuntut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                                    exercitation
+                                <p>Just God Triumphant Ministry, city of liberty is God's own citadel 
+                                    and home to all.
                                 </p>
                             </div>
                             <ul class="contact-info">
@@ -117,7 +116,7 @@
                                         href="mailto:justgodtriumphantministry@gmail.com">justgodtriumphantministry@gmail.com</a>
                                 </li>
 
-                                <li><i class="fa fa-home"></i> 380 St Kilda Road, Melbourne VIC 3004, Australia</li>
+                                <li><i class="fa fa-home"></i> Port Harcourt</li>
                             </ul>
 
 
@@ -130,9 +129,11 @@
                                     <li><a href="/">Home</a></li>
                                     <li><a href="/about">About Us</a></li>
                                     <li><a href="/activities">Activities</a></li>
-                                    <li><a href="#">Testimonials</a></li>
-                                    <li><a href="#">News</a></li>
-                                    <li><a href="#">Contact</a></li>
+                                    <li><a href="/testimonies">Testimonies</a> <li>
+                                    <li><a href="/contact">Contact</a></li>
+                                    <li><a href="/faq">FAQs</a></li>
+                                    <li><a href="/membership">Membership</a></li>
+                                   
                                 </ul>
                             </div>
                         </div>

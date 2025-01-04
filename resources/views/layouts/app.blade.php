@@ -80,11 +80,11 @@
 <body class="agency-home">
 
  <!-- start preloader -->
- <div class="preloader">
+ <!-- <div class="preloader">
             <div>
                 <img src="../assets/images/pre-loader.gif" alt>
             </div>
-        </div>
+        </div> -->
         <!-- end preloader -->
 
         <!-- Start header -->
@@ -99,7 +99,7 @@
                             <span class="icon-bar"></span>
                         </button>
                         <a class="site-logo" href="#">
-                            <img src="../assets/images/jgtm/logo.png" height="80" width="80" alt>
+                            <img src="../assets/images/jgtm/logo.png" height="60" width="60" alt>
                         </a>
                     </div>
                     <div id="navbar" class="navbar-collapse collapse navbar-right navigation-holder">
@@ -114,7 +114,7 @@
                             <li><a href="/give">GIVE</a></li>
                             <li><a href="/testimonies">TESTIMONIES</a></li>
                             <li><a href="/contact">CONTACT</a></li>
-                            <li><a href="/faqs">FAQs</a></li>
+                            <li><a href="/faq">FAQs</a></li>
                             <li><a href="/membership">MEMBERSHIP</a></li>
                         </ul>
                     </div>
@@ -148,17 +148,16 @@
                         <div class="col col-md-6 col-sm-6">
                             <div class="widget about-widget">
                                 <div class="footer-logo">
-                                    <img src="../assets/images/jgtm/logo.png" height="120" width="120" alt>
+                                    <img src="../assets/images/jgtm/logo.png" height="100" width="100" alt>
                                 </div>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididuntut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                                    exercitation
+                                <p>Just God Triumphant Ministry, city of liberty is God's own citadel 
+                                and home to all.
                                 </p>
                             </div>
                             <ul class="contact-info">
                                 <li><i class="fa fa-phone"></i> +234 9050964241, +234 7065693552, +234 7067655333</li>
-                                <li><i class="fa fa-envelope"></i> <a
-                                        href="mailto:justgodtriumphantministry@gmail.com">justgodtriumphantministry@gmail.com</a>
+                                <li><i class="fa fa-envelope"></i> 
+                                <a href="mailto:justgodtriumphantministry@gmail.com">justgodtriumphantministry@gmail.com</a>
                                 </li>
 
                                 <li><i class="fa fa-home"></i> 380 St Kilda Road, Melbourne VIC 3004, Australia</li>
@@ -175,8 +174,8 @@
                                     <li><a href="/about">About Us</a></li>
                                     <li><a href="/activities">Activities</a></li>
                                     <li><a href="#">Testimonials</a></li>
-                                    <li><a href="#">News</a></li>
-                                    <li><a href="#">Contact</a></li>
+                                    <li><a href="/faq">FAQs</a></li>
+                                    <li><a href="/contact">Contact</a></li>
                                 </ul>
                             </div>
                         </div>

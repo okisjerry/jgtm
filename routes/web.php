@@ -31,6 +31,23 @@ Route::get('/live', function () {
     return view('live'); 
 })->name('live');
 
+Route::get('/contact', function () {
+    return view('contact'); 
+})->name('contact');
+
+Route::get('/give', function () {
+    return view('give'); 
+})->name('give');
+
+Route::get('/bank', function () {
+    return view('bank'); 
+})->name('bank');
+
+Route::get('/faq', function () {
+    return view('faq'); 
+})->name('faq');
+
+
 
 
 Route::get('/dashboard', [HomeController::class, 'dashboard'])->middleware(['auth'])->name('dashboard');

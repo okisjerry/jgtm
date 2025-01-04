@@ -12,6 +12,7 @@ URL:            http://themeforest.net/user/themexriver
 #0.1	Theme Reset Style
 #0.2	Global Elements
 #0.3	header
+#0.3.1 hero-header
 #0.4	hero-slider
 #0.5	footer
 
@@ -30,6 +31,7 @@ URL:            http://themeforest.net/user/themexriver
 #1.5	business-partners-section
 #1.6	business-blog-section
 #1.7	business-contact-section 
+#1.8  contact-form
 
 
 --------------------------------------------------------------
@@ -503,6 +505,61 @@ img {
 .business-section-title-s2 h2 {
   margin: 0 0 0.5em;
 }
+
+
+/*******************************
+	contact-form
+*******************************/
+.contact-form-container {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact-form-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: none;
+}
+
+button[type="submit"] {
+  width: 30%;
+  padding: 12px;
+  background-color: #874caf;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+  background-color: #45a049;
+}
+
 
 /*******************************
 	finance section title
@@ -3264,7 +3321,7 @@ img {
 
 .site-header #navbar > ul li a:hover {
   text-decoration: none;
-  color: #443f45;
+  color: #2b262c;
 }
 
 @media screen and (min-width: 992px) {
@@ -3280,7 +3337,7 @@ img {
   .site-header #navbar > ul .sub-menu {
     background-color: #fff;
     width: 220px;
-    border-top: 2px solid #443f45;
+    border-top: 2px solid #0c0a0c;
     position: absolute;
     left: 0;
     top: 130%;
@@ -3372,7 +3429,7 @@ img {
   }
   .site-header #navbar .current-menu-item a {
     font-weight: bold;
-    color: #443f45;
+    color: #3e383f;
   }
 }
 
@@ -5510,6 +5567,8 @@ img {
   box-shadow: none;
 }
 
+
+
 /*--------------------------------------------------------------
 #0.4	hero slider
 --------------------------------------------------------------*/
@@ -5532,6 +5591,10 @@ img {
     min-height: 420px;
   }
 }
+
+
+
+
 
 .hero .slide {
   height: 100vh;
@@ -5671,6 +5734,38 @@ img {
 .hero .btns > a:first-child {
   margin-right: 5px;
 }
+
+/*******************************
+	hero-header
+********************************/
+.hero-header {
+  background-image: url('/assets/images/jgtm/banner-2.jpg'); /* Relative path to the image */
+  height: 400px; /* Set height for the hero section */
+  background-size: cover; /* Ensures the image covers the entire area */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Ensures the image doesn't repeat */
+  display: flex;
+  font-family: 'Poppins', sans-serif;
+
+  padding-top: 10px;
+  margin-top: 20px;
+  justify-content: center; /* Aligns content horizontally */
+  align-items: center; /* Aligns content vertically */
+  text-align: center;
+  border: 1px solid gold; /* Optional: For visibility of the container */
+}
+
+.hero-header h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+  color: #ffffff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+
+
+
 
 /*******************************
 	business-hero-slider
@@ -7931,7 +8026,7 @@ img {
 
 .site-footer .upper-footer {
   background-color: #000;
-  padding: 100px 0;
+  padding: 40px 0;
 }
 
 @media (max-width: 991px) {

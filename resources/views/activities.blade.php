@@ -1,6 +1,9 @@
 @extends('layouts.guest')
-
 @section('content')
+<div class="hero-header">
+    <h1>Activities</h1>
+</div>
+
     <!-- start blog-classic-main-content -->
     <section class="blog-classic-main-content section-padding">
         <div class="container">
@@ -15,12 +18,18 @@
 
                     <div class="entry-body">
                         <h3>Days of Activities</h3>
-                        <p>Started off as a burning desire to reach out to the lost souls,
-                            the visioner, Barizomdu Job David hearkened to the divine instruction
-                            by going out for market evangelism, preaching the message of salvation.
-                            It metarmophosed into holding counselling sessions on the 
-                            18th of August, 2017.
-                        </p>
+                        <h4>The days of activities can be seen below:</h4>
+                        <p>Tuesday (Counselling) 8am - 4pm GMT+1 </p>
+                        <p>Thursday (Prophetic Service) 8am GMT+1 </p>
+
+                        <h4>Online Servuce</h4>
+                        <p>Sunday 7pm GMT +1</p>
+                        <p>Wednesday 7pm GMT +1</p>
+
+                        <h5>Become a part of God's vineyard by joining 
+                            World Harvest evangelism Team
+                        </h5>
+                        <p>Every Saturday 8am</p>
 
                     </div>
 

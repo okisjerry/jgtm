@@ -10,11 +10,11 @@
                 <div class="row">
                     <div class="col col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 slide-caption">
                         <h2>City of Liberty</h2>
-                        <p>enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                            consequat. Duis aute irure
-                            dolor in reprehenderit in voluptate velit</p>
+                        <p>Welcome to your own Jerusalem: a place where all
+                            things work.
+                        </p>
                         <div class="btns">
-                            <a href="#" class="agency-theme-btn">About Us</a>
+                            <a href="/about" class="agency-theme-btn">About Us</a>
                         </div>
                     </div>
                 </div>
@@ -74,31 +74,32 @@
 <!-- start agency-about-section -->
 <section class="agency-about-section" id="about">
     <div class="container">
-    <div class="row">
-    <!-- First Column with Image -->
-    <div class="col col-lg-6 col-md-5">
-        <div class="container">
-            <img src="../assets/images/jgtm/wedding-2.jpg" height="300" width="500" style="border-radius: 50px;" alt="">
-        </div>
-    </div>
-
-    <!-- Second Column with Text Content -->
-    <div class="col col-lg-6 col-md-4 col-sm-2">
-        <div class="service-text">
-            <div class="card">
-                <div class="agency-section-title">
-                    <span>Enjoy the Riches of the Glory in Christ</span>
-                    <h2>You Too can be the First Pataker</h2>
+        <div class="row">
+            <!-- First Column with Image -->
+            <div class="col col-lg-6 col-md-5">
+                <div class="container">
+                    <img src="../assets/images/jgtm/wedding-2.jpg" height="300" width="500" style="border-radius: 50px;"
+                        alt="">
                 </div>
-                <p>God's Word has assured us in 1 Peter 2:3,
-                    According as His divine power hath given unto us all things
-                    that pertain to life and Godliness. All things are yours in 
-                    Christ. Believe it and walk in this consciousness.
-                </p>
+            </div>
+
+            <!-- Second Column with Text Content -->
+            <div class="col col-lg-6 col-md-4 col-sm-2">
+                <div class="service-text">
+                    <div class="card">
+                        <div class="agency-section-title">
+                            <span>Enjoy the Riches of the Glory in Christ</span>
+                            <h2>You Too can be the First Pataker</h2>
+                        </div>
+                        <p>God's Word has assured us in 1 Peter 2:3,
+                            According as His divine power hath given unto us all things
+                            that pertain to life and Godliness. All things are yours in
+                            Christ. Believe it and walk in this consciousness.
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
-</div>
 
     </div> <!-- end about-grids -->
 </section>
@@ -111,17 +112,18 @@
         <div class="row">
             <div class="col col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="agency-section-title-s2">
-                    <span>Our Works Speak For Ourselves </span>
-                    <h2>Our Portfolio</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+                    <span>The Testimonies Speak for Themselves </span>
+                    <h2>Gallery</h2>
+                    <p>Here are some exciting miracles wrought by the
+                        mighty hand of God.
+                    </p>
                 </div>
             </div>
         </div>
     </div>
 
     <div class="sortable-gallery">
-        <div class="gallery-filters portfolio-list">
+        <!-- <div class="gallery-filters portfolio-list">
             <ul>
                 <li>
                     <a data-filter="*" href="#" class="current">All</a>
@@ -139,19 +141,19 @@
                     <a data-filter=".others" href="#">Others</a>
                 </li>
             </ul>
-        </div>
+        </div> -->
 
         <div class="gallery-container portfolio-grids masonry-gallery">
             <div class="grid-item design branding">
                 <div class="inner">
                     <div class="img-holder">
-                        <img src="../assets/images/agency/portfolio/img-1.jpg" alt>
+                        <img src="../assets/images/jgtm/wedding.jpg" alt>
                     </div>
                     <div class="details">
                         <div class="details-inner">
                             <ul>
                                 <li>
-                                    <a href="../assets/images/agency/portfolio/img-1.jpg" class="fancybox">
+                                    <a href="../assets/images/jgtm/wedding.jpg" class="fancybox">
                                         <i class="fa fa-search"></i>
                                     </a>
                                 </li>
@@ -161,7 +163,7 @@
                                     </a>
                                 </li>
                             </ul>
-                            <h3>Pied Piper</h3>
+                            <h3>Wedding Ceremony</h3>
                         </div>
                     </div>
                 </div>
@@ -169,13 +171,13 @@
             <div class="grid-item design web">
                 <div class="inner">
                     <div class="img-holder">
-                        <img src="../assets/images/agency/portfolio/img-2.jpg" alt>
+                        <img src="../assets/images/jgtm/wedding-2.jpg" alt>
                     </div>
                     <div class="details">
                         <div class="details-inner">
                             <ul>
                                 <li>
-                                    <a href="../assets/images/agency/portfolio/img-2.jpg" class="fancybox">
+                                    <a href="../assets/images/jgtm/wedding-2.jpg" class="fancybox">
                                         <i class="fa fa-search"></i>
                                     </a>
                                 </li>
@@ -185,7 +187,7 @@
                                     </a>
                                 </li>
                             </ul>
-                            <h3>Pied Piper</h3>
+                            <h3>Wedding Ceremony</h3>
                         </div>
                     </div>
                 </div>
@@ -193,13 +195,13 @@
             <div class="grid-item others">
                 <div class="inner">
                     <div class="img-holder">
-                        <img src="../assets/images/agency/portfolio/img-3.jpg" alt>
+                        <img src="../assets/images/jgtm/wedding-3.CR2" alt>
                     </div>
                     <div class="details">
                         <div class="details-inner">
                             <ul>
                                 <li>
-                                    <a href="../assets/images/agency/portfolio/img-3.jpg" class="fancybox">
+                                    <a href="../assets/images/jgtm/wedding-3.CR2" class="fancybox">
                                         <i class="fa fa-search"></i>
                                     </a>
                                 </li>
@@ -209,7 +211,7 @@
                                     </a>
                                 </li>
                             </ul>
-                            <h3>Pied Piper</h3>
+                            <h3>Wedding Ceremony</h3>
                         </div>
                     </div>
                 </div>
@@ -217,13 +219,13 @@
             <div class="grid-item event web branding">
                 <div class="inner">
                     <div class="img-holder">
-                        <img src="../assets/images/agency/portfolio/img-4.jpg" alt>
+                        <img src="../assets/images/jgtm/triplet.jpg" alt>
                     </div>
                     <div class="details">
                         <div class="details-inner">
                             <ul>
                                 <li>
-                                    <a href="../assets/images/agency/portfolio/img-4.jpg" class="fancybox">
+                                    <a href="../assets/images/jgtm/triplet.jpg" class="fancybox">
                                         <i class="fa fa-search"></i>
                                     </a>
                                 </li>
@@ -233,7 +235,7 @@
                                     </a>
                                 </li>
                             </ul>
-                            <h3>Pied Piper</h3>
+                            <h3>Miracle triplets</h3>
                         </div>
                     </div>
                 </div>
@@ -241,13 +243,13 @@
             <div class="grid-item web others design">
                 <div class="inner">
                     <div class="img-holder">
-                        <img src="../assets/images/agency/portfolio/img-7.jpg" alt>
+                        <img src="../assets/images/jgtm/wedding-4.jpg" alt>
                     </div>
                     <div class="details">
                         <div class="details-inner">
                             <ul>
                                 <li>
-                                    <a href="../assets/images/agency/portfolio/img-7.jpg" class="fancybox">
+                                    <a href="../assets/images/jgtm/wedding-4.jpg" class="fancybox">
                                         <i class="fa fa-search"></i>
                                     </a>
                                 </li>
@@ -257,7 +259,7 @@
                                     </a>
                                 </li>
                             </ul>
-                            <h3>Pied Piper</h3>
+                            <h3>Wedding Ceremony</h3>
                         </div>
                     </div>
                 </div>
@@ -265,13 +267,13 @@
             <div class="grid-item branding web design">
                 <div class="inner">
                     <div class="img-holder">
-                        <img src="../assets/images/agency/portfolio/img-5.jpg" alt>
+                        <img src="../assets/images/jgtm/twins.jpg" alt>
                     </div>
                     <div class="details">
                         <div class="details-inner">
                             <ul>
                                 <li>
-                                    <a href="../assets/images/agency/portfolio/img-5.jpg" class="fancybox">
+                                    <a href="../assets/images/jgtm/twins.jpg" class="fancybox">
                                         <i class="fa fa-search"></i>
                                     </a>
                                 </li>
@@ -281,7 +283,7 @@
                                     </a>
                                 </li>
                             </ul>
-                            <h3>Pied Piper</h3>
+                            <h3>Twin babies</h3>
                         </div>
                     </div>
                 </div>
@@ -289,13 +291,13 @@
             <div class="grid-item others branding">
                 <div class="inner">
                     <div class="img-holder">
-                        <img src="../assets/images/agency/portfolio/img-6.jpg" alt>
+                        <img src="../assets/images/jgtm/dedication.jpg" alt>
                     </div>
                     <div class="details">
                         <div class="details-inner">
                             <ul>
                                 <li>
-                                    <a href="../assets/images/agency/portfolio/img-6.jpg" class="fancybox">
+                                    <a href="../assets/images/jgtm/dedication.jpg" class="fancybox">
                                         <i class="fa fa-search"></i>
                                     </a>
                                 </li>
